@@ -1,8 +1,9 @@
 # Hi, I'm Harshitha 👋
 
+
 ![github_Banner](https://user-images.githubusercontent.com/57286306/134960897-1a73fd56-0907-4aaf-b7bc-3e839c985751.gif)          
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitha-sa&show_icons=true) 
+I am a Computer Science engineering student👩🏾‍💻, who believes that "Every expert was once a beginner" and it is never too late to learn and grow. I love Android app development ,Art and Photography. Someday i wish to see my work impact millions of lives around the world. But, till then i will keep on exploring to move Onwards and Upwords🚀. 
 
 ## Find me around the web 🌎: <img align="left" width="250" height="280" src="https://ci5.googleusercontent.com/proxy/u7FLVzYzxBUa18qOp9agM-anrl8A-OfrnPfuuZYCt4lQecPm_LS4S01L329zLwymsx_HdhCUYdTFWPyqZPTteDN29CoU0XGIZkh0UnRr-U8BqEf3P0Jw3ALGVhcKbIYo0wtN38DL=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1632768325878.png"></a>
  
