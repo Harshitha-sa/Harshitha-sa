@@ -7,13 +7,12 @@ I am a Computer Science engineering student👩🏾‍💻, who believes that "E
 
 ## Find me around the web 🌎: <img align="left" width="250" height="280" src="https://ci5.googleusercontent.com/proxy/u7FLVzYzxBUa18qOp9agM-anrl8A-OfrnPfuuZYCt4lQecPm_LS4S01L329zLwymsx_HdhCUYdTFWPyqZPTteDN29CoU0XGIZkh0UnRr-U8BqEf3P0Jw3ALGVhcKbIYo0wtN38DL=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1632768325878.png"></a>
  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harshitha-sa) GITHUB 
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshitha-sa-291225192/) LINKEDIN
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/harshitha.sa) FACEBOOK
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_harshitha_here/) INSTAGRAM
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/harshithasa2) TWITTER
+- [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/Harshitha-sa) GITHUB 
+- [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshitha-sa-291225192/) LINKEDIN
+- [<img src='https://cdn-icons-png.flaticon.com/512/733/733547.png' alt='facebook' height='40'>](https://www.facebook.com/harshitha.sa) FACEBOOK
+- [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' alt='instagram' height='40'>](https://www.instagram.com/its_harshitha_here/) INSTAGRAM
+- [<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' alt='twitter' height='40'>](https://twitter.com/harshithasa2) TWITTER
  
-
 
 
 
