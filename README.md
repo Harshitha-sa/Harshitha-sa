@@ -3,7 +3,8 @@
 
 ![github_Banner](https://user-images.githubusercontent.com/57286306/134960897-1a73fd56-0907-4aaf-b7bc-3e839c985751.gif)          
 
-I am a Computer Science engineering student <img src="https://media1.giphy.com/media/2Yj2vRSHrhZIUyVPGl/200.webp?cid=ecf05e4777dqr5yqob5n59ryyxp2hkcpsvaqpiwdd7fxhcvi&rid=200.webp&ct=s" height="25" width="25">, who believes that "Every expert was once a beginner" and it is never too late to learn and grow. I love Android app development ,Art and Photography. Someday i wish to see my work impact millions of lives around the world. But, till then i will keep on exploring to move Onwards and Upwords<img src="https://media4.giphy.com/media/pdmlMTaKjVauo9cxsH/200w.webp?cid=ecf05e47j6pmiqcersoxhiga04q4ltcc71syayvqzvzmqxyz&rid=200w.webp&ct=s" height="25" width="25" >. 
+I am a final year Computer Science engineering student <img src="https://media1.giphy.com/media/2Yj2vRSHrhZIUyVPGl/200.webp?cid=ecf05e4777dqr5yqob5n59ryyxp2hkcpsvaqpiwdd7fxhcvi&rid=200.webp&ct=s" height="25" width="25">, who believes that "Every expert was once a beginner" and it is never too late to learn and grow. I am currently working on Quantum Cryptography and IPSEC.
+<br>Onwards and Upwords<img src="https://media4.giphy.com/media/pdmlMTaKjVauo9cxsH/200w.webp?cid=ecf05e47j6pmiqcersoxhiga04q4ltcc71syayvqzvzmqxyz&rid=200w.webp&ct=s" height="25" width="25" >. 
 
 ## Find me around the web<img src="https://media1.giphy.com/media/65Fpt8j3Bu0lnyRJ9v/200w.webp?cid=ecf05e47ae5r3j1g06j0k274gtggh5h5zql9ktn8hmljasga&rid=200w.webp&ct=s" height="30" width="30">: <img align="left" width="250" height="280" src="https://ci5.googleusercontent.com/proxy/u7FLVzYzxBUa18qOp9agM-anrl8A-OfrnPfuuZYCt4lQecPm_LS4S01L329zLwymsx_HdhCUYdTFWPyqZPTteDN29CoU0XGIZkh0UnRr-U8BqEf3P0Jw3ALGVhcKbIYo0wtN38DL=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1632768325878.png"></a>
  
